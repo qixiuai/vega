@@ -40,6 +40,3 @@ ENV LD_LIBRARY_PATH=/usr/local/lib:/usr/local/cuda/lib64:.:/home/guo/libtorch/li
 
 ENV PATH /usr/bin:/usr/local/bin:$PATH
 
-
-
-
